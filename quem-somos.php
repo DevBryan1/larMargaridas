@@ -23,7 +23,15 @@ $GLOBALS['js'] = $js;
 require 'partials/head.php';
 ?>
 <div class="body-site">
-    
+    <div class="flex-title">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h1 class="page-title">Quem Somos ?</h1>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 <?php
