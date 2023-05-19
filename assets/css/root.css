@@ -12,7 +12,6 @@
 }
 .site-completo{
     width: 100%;
-    height: 100vh;
     display: flex;
 }
 .body-site{
@@ -63,9 +62,10 @@
 }
 .footer{
     width: 100%;
-    height: 220px;
-    box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.226);
     padding: 10px;
+    padding-top: 20px;
+    background-color: #fff;
+    box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.226);
     display: flex;
     justify-content: space-around;
     font-size: 16px;

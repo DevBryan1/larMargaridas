@@ -24,6 +24,19 @@ $GLOBALS['js'] = $js;
 require 'partials/head.php';
 ?>
 <div class="body-site">
+    <div class="imgFundo"></div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-5">
+                <img src="./assets/images/Idosos Mãos Dadas.jpg" alt="Foto Idosos">
+            </div>
+            <div class="col-sm-7">
+                <h1>Um pouco sobre nós</h1>
+                <p>O Lar Margaridas iniciou suas atividades para proporcionar aos seus residentes qualidade de vida, entretenimento, segurança e cuidados especiais. Contamos com uma ótima estrutura, com capacidade de acolher confortavelmente e fornecer as condições necessárias para o bem estar dos nossos residentes, sempre respeitando as necessidades individuais de cada um. Confira nossa estrutura e serviços aqui no site, e fique à vontade para deixar um recadinho ou nos ligar, aguardamos sua ligação para esclarecer qualquer dúvida e ajudá-lo a tomar a decisão mais adequada.</p>
+            </div>
+        </div>
+    </div>
     
 </div>
 
