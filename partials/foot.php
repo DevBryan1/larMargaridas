@@ -24,9 +24,9 @@
     <div class="card-body">
       <div class="card-title2"><i class="fa-solid fa-phone"></i><h5>ATENDIMENTO</h5></div>
       <div class="card-text2">
-          <p>(11) 96065-5179</p>
-          <p>(11) 95475-3062</p>
-          <p>(11) 4242-7894</p>
+          <a href="tel:11960655179">(11) 96065-5179</a>
+          <a href="tel:11954753062">(11) 95475-3062</a>
+          <a href="tel:1142427894">(11) 4242-7894</a>
       </div>
     </div>
   </div>

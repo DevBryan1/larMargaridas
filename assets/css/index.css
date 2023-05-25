@@ -1,6 +1,7 @@
 .body-site{
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
+    
 }
 .imgFundo{
     width: 100%;
@@ -16,14 +17,14 @@
 .row{
     width: 970px;
     height: 400px;
-    margin-top: 100px;
     margin-right: -15px;
     margin-left: -15px;
 }
 .col-sm-5 img {
-    width: 374px;
-    height: 280px;
     box-shadow: 0px 0 13px 0px rgba(1, 1, 1, 0.35);
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
 }
 .col-sm-7 h1{
     margin-bottom: 0;
@@ -47,4 +48,121 @@
     font-size: 16.8px;
     font-family: 'Roboto', sans-serif;
     color: #767676;
+}
+#section2{
+    background: url("../images/Fundo imagem.png") no-repeat fixed;
+    background-size: cover;
+}
+#section2 h1 {
+    font-family: 'Merriweather', serif;
+    margin-bottom: 0px;
+    color: white;
+    border: none;
+}
+#section2 p {
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+    font-style: normal;
+    margin-bottom: 3em;
+    line-height: 1.3em;
+    color: white;
+    text-align: center;
+}
+#section2 h3 {
+    font-family: 'Merriweather', serif;
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 1em;
+    font-weight: bold;
+    color: white;
+}
+.flex-page h1{
+    font-size: 3em;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 0 10px;
+    text-align: center;
+}
+.col-sm-3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.svgi img{
+    width: 98.4px;
+    height: 98.4px;
+}
+.icones{
+    display: flex;
+    width: 966px;
+    margin-left: -50px;
+    gap: 1rem;
+}
+.icones img{
+    filter: invert(100%);
+    -webkit-filter: invert(100%);
+    -moz-filter: invert(100%);
+}
+.galeria-home h1 {
+    font-weight: 700;
+    text-align: center;
+    margin: 40px 0;
+    font-size: 3em;
+    font-family: 'Merriweather', serif;
+    color: #767676;
+}
+#jig1{
+    display: flex;
+    gap: 1rem;
+    margin-left: -25px;
+}
+a.whatsapp-fixo {
+    z-index: 999;
+    display: block;
+    background: #24CD63;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    color: white;
+    border-radius: 100%;
+    font-size: 2.3em;
+    padding: 3px;
+    position: fixed;
+    bottom: 70px;
+    right: 115px;
+    border: 3px solid #fff;
+    -webkit-box-shadow: 0px 0px 8px 2px rgba(1, 1, 1, 0.39);
+    box-shadow: 0px 0px 8px 2px rgba(1, 1, 1, 0.39);
+}
+a.whatsapp-fixo:before {
+    content: 'Podemos ajudar ?';
+    display: block;
+    position: absolute;
+    font-size: 0.5em!important;
+    background: #fff;
+    color: #000;
+    width: 250px;
+    padding: 5px;
+    border-radius: 30px;
+    font-weight: 600;
+    margin: 5px 15px;
+    -webkit-box-shadow: 0 0 0 0 rgba(1,1,1,1);
+    box-shadow: 0 0 10px 0px rgba(1, 1, 1, 0.2);
+    top: 70px;
+    right: -115px;
+}
+.whatsapp-fixo svg{
+    margin-top: 7px;
+}
+.vertical-5{
+    padding: 90px 0 !important;
+}
+@media screen and (max-width:950px){
+  .imgFundo{
+    width: 100%;
+  }
+  #jig1{
+    flex-direction: column;
+    margin-left: 25px;
+  }
 }

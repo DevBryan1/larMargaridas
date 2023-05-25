@@ -96,6 +96,11 @@
     flex-direction: column;
     align-items: center;
 }
+.card-text2 a{
+    text-decoration: none;
+    color: black;
+    text-align: start;
+}
 .card-text3{
     display: flex;
     flex-direction: column;
