@@ -24,7 +24,10 @@ $GLOBALS['js'] = $js;
 require 'partials/head.php';
 ?>
 <div class="body-site">
-    <div class="imgFundo"></div>
+    <div class="imgFundo">
+        <p class="title-img">Casa de Repouso</p>
+        <p class="desc-img">Lar Margaridas é uma instituição de longa permanência para idosos,com o objetivo de fazer seu familiar se sentir em  casa ,com todos os cuidados necessários ,dando  prioridade ao carinho e atenção a sua saúde física e emocional ! </p>
+    </div>
    
     <div class="flex-page vertical-5" id="section1">
         <div class="container">

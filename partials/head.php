@@ -13,7 +13,8 @@
 <script src="https://kit.fontawesome.com/ca7955397c.js" crossorigin="anonymous"></script>
 <body>
 <div class="container-header">
-        <a href="index.php"><img class="imgLogo" src="./assets/images/Logo lar nova cor.png" alt="Logo"></a>
+        <a href="index.php"><img class="imgLogo" src="./assets/images/Logo Lar.png" alt="Logo"></a>
+        <p></p>
         <ul class="navMenu">
             <a href="index.php"><li>Início</li></a>
             <a href="quem-somos.php"><li>Quem Somos</li></a>
