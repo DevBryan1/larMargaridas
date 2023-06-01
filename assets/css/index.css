@@ -136,11 +136,6 @@
     font-family: 'Merriweather', serif;
     color: #767676;
 }
-#jig1{
-    display: flex;
-    gap: 1rem;
-    margin-left: -25px;
-}
 a.whatsapp-fixo {
     z-index: 999;
     display: block;
@@ -186,12 +181,17 @@ a.whatsapp-fixo:before {
     width: 100%;
     display: flex;
     gap: 20px;
+    margin-bottom: 20px;
 }
 .imgGaleria{
     width: 230px;
     height: 170px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.600);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.285);
+    cursor: pointer;
+}
+.mapa{
+    padding-top: 350px;
 }
 @media screen and (max-width:950px){
   .imgFundo{

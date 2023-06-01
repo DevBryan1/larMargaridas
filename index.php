@@ -87,10 +87,22 @@ require 'partials/head.php';
                 <div class="col-sm-12 galeria-home">
                     <h1>Galeria de fotos</h1>
                     <div class="galeria-image">
-                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/teste1.jpg" alt=""></div>
-                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/teste2.jpg" alt=""></div>
-                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/teste3.jpg" alt=""></div>
-                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/teste4.jpg" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/lareira.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/fachada.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/escritório.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/gramado.jpg" alt=""></div>
+                    </div>
+                    <div class="galeria-image">
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/corredor gramado.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/banheiro.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/quarto.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/sala de jantar.webp" alt=""></div>
+                    </div>
+                    <div class="galeria-image">
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/sala.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/varanda2.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/pia cozinha.webp" alt=""></div>
+                        <div class="imgGaleria"><img width="100%" height="100%"  src="./assets/images/sala de jantar2.webp" alt=""></div>
                     </div>
 			    </div>
 		    </div>
