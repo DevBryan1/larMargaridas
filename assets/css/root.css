@@ -111,6 +111,11 @@
     display: flex;
     align-items: center;
 }
+.instagram a, .facebook a {
+    margin: -8px 0px 0px 10px;
+    text-decoration: none;
+    color: #212121;
+}
 .card-text3 p{
     margin: -8px 0px 0px 10px;
     text-transform: uppercase;

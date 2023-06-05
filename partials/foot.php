@@ -38,13 +38,23 @@
           </div>
           <div class="card-text3">
             <div class="instagram">
-              <i class="fa-brands fa-instagram"></i><p>@Lar-margaridas</p>
+              <i class="fa-brands fa-instagram"></i><a href="https://www.instagram.com/larmargaridas/" target="_blank">@Lar Margaridas</a>
             </div>
             <div class="facebook">
-              <i class="fa-brands fa-facebook"></i><p>@Lar Margaridas</p>
+              <i class="fa-brands fa-facebook"></i><a href="https://www.facebook.com/larmargaridas.com.br" target="_blank">Lar Margaridas</a>
             </div>
           </div>
       </div>
+  </div>
+  <div id="fade"></div>
+  <div id="modal">
+    <div class="topModal">
+        <h4>Lar Margaridas</h4>
+        <i id="btnClose" class="fa-solid fa-xmark"></i>
+    </div>
+    <div class="bodyModal">
+
+    </div>
   </div>
 </div>
 
